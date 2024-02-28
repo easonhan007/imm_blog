@@ -1,7 +1,7 @@
 ---
 layout: default
 title: UK
-nav_order: 2
+parent: 欧洲
 ---
 
 ## References

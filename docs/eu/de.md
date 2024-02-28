@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 德国
-parent: eu
+parent: 欧洲
 ---
 
 ### 德国的基本情况
